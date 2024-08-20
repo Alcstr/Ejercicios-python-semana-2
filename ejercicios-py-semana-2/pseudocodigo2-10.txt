@@ -1,0 +1,14 @@
+**Pseudocódigo**
+
+Inicio
+
+Definir la constante METROS_A_PULGADAS = 39.3701 (el factor de conversión debería ser 1 / 0.0254, que es  39.3701 pulgadas por metro. El algoritmo proporcionado ya usa esto)
+
+Pedir al usuario que ingrese la cantidad de metros de tela.
+
+Convertir los metros a pulgadas usando la fórmula: pulgadas = metros * METROS_A_PULGADAS
+
+Mostrar el resultado en pulgadas.
+
+Fin
+

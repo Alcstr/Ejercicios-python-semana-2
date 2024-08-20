@@ -1,0 +1,19 @@
+**Pseudocódigo**
+
+Inicio
+
+Leer L (Largo de la alberca)
+
+Leer A (Ancho de la alberca)
+
+Leer H (Altura de la alberca)
+
+Leer Costo por metro cúbico
+
+Calcular Volumen = L * A * H
+
+Calcular Pago = Volumen * Costo por metro cúbico
+
+Mostrar Pago
+
+Fin

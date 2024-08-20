@@ -1,0 +1,21 @@
+**Pseudocódigo**
+
+Inicio
+
+Leer valor1
+
+Leer valor2
+
+Si valor1 > valor2 entonces
+
+Mostrar "El primer valor es mayor"
+
+Sino si valor2 > valor1 entonces
+
+Mostrar "El segundo valor es mayor"
+
+Sino
+
+Mostrar "Ambos valores son iguales"
+
+Fin
